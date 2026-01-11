@@ -1,1 +1,1 @@
-# LLM_from_scratch
+# Data Mining Foundations
